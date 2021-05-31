@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>belvedere57</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Burgundy Metallic / White -->
+            31
+            198
+            4
+			1
+			1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sand Dune White / Jade Green -->
+            198
+            195
+            0
+			195
+			195
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Marine Blue Metallic / White -->
+            208
+            198
+            4
+			73
+			73
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Canary Yellow / White -->
+            207
+            198
+            0
+			168
+			168
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Meadow Green / White -->
+            217
+            198
+            0
+			195
+			195
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Jade Green Metallic / Meadow Green -->
+            195
+            217
+            54
+			195
+			195
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Desert Gold Metallic / White -->
+            168
+            198
+            4
+			168
+			168
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Satin Gray / White -->
+            7
+            198
+            0
+			1
+			1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Carnival Red / White -->
+            27
+            198
+            0
+			27
+			27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Ginger / White -->
+            166
+            198
+            0
+			166
+			166
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Charcoal Metallic / White -->
+            3
+            198
+            4
+			1
+			1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dusty Coral / White -->
+            216
+            198
+            0
+			216
+			216
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Jet Black / White -->
+            0
+            198
+            0
+			1
+			1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sky Blue / White -->
+            229
+            198
+            0
+			73
+			73
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+     <Item>
+      <modelName>savoy57</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Sand Dune White / Jade Green -->
+            198
+            195
+            0
+			195
+			195
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sky Blue / White -->
+            229
+            198
+            0
+			73
+			73
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Marine Blue Metallic / White -->
+            208
+            198
+            4
+			73
+			73
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Meadow Green / White -->
+            217
+            198
+            0
+			195
+			195
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Jade Green Metallic / Meadow Green -->
+            195
+            217
+            54
+			195
+			195
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Satin Gray / White -->
+            7
+            198
+            0
+			1
+			1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Charcoal Metallic / White -->
+            3
+            198
+            4
+			1
+			1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Carnival Red / White -->
+            27
+            198
+            0
+			27
+			27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Ginger / White -->
+            166
+            198
+            0
+			166
+			166
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Canary Yellow / White -->
+            207
+            198
+            0
+			168
+			168
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Burgundy Metallic / White -->
+            31
+            198
+            4
+			1
+			1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dusty Coral / White -->
+            216
+            198
+            0
+			216
+			216
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Desert Gold Metallic / White -->
+            168
+            198
+            4
+			168
+			168
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Jet Black / White -->
+            0
+            198
+            0
+			1
+			1
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
